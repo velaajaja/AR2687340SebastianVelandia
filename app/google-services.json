@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096932393607",
+    "project_id": "ar2687340sebastianvelandia",
+    "storage_bucket": "ar2687340sebastianvelandia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096932393607:android:e6f91a1b96a723caf9ae22",
+        "android_client_info": {
+          "package_name": "co.edu.sena.ar2687340sebastianvelandia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096932393607-cidddfk1m7dttmt97mq2c9h3b69su0gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3AXaAd4r421n9Q53W3sf1xppFtdrpCZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096932393607-cidddfk1m7dttmt97mq2c9h3b69su0gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
